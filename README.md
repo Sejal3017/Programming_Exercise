@@ -12,8 +12,9 @@ This application reads data from `trainings.txt` and generates three output JSON
 - `dateutil` library (for `relativedelta`)
 
 ## Setup
-1. Clone the repository: git clone <repository_url> cd Programming_Exercise
-2. Run the application: python3 app.py
+1. Clone the repository: git clone <repository_url>
+2. Navigate to the cloned folder.
+3. Run the application: python3 app.py
 
 ## Outputs
 The output files will be saved in the root directory as:
